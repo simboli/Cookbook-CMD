@@ -1,0 +1,2 @@
+MSTSC /ADMIN /F
+EXIT

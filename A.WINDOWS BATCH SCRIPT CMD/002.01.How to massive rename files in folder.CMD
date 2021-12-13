@@ -1,0 +1,8 @@
+rename	"OldName_001.pdf"	"NewName_001.pdf"
+rename	"OldName_002.pdf"	"NewName_002.pdf"
+rename	"OldName_003.pdf"	"NewName_003.pdf"
+rename	"OldName_004.pdf"	"NewName_004.pdf"
+rename	"OldName_005.pdf"	"NewName_005.pdf"
+rename	"OldName_006.pdf"	"NewName_006.pdf"
+rename	"OldName_007.pdf"	"NewName_007.pdf"
+rename	"OldName_008.pdf"	"NewName_008.pdf"
